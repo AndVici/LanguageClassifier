@@ -1,0 +1,4 @@
+com\mycompany\languageclassifier\DTree.class
+com\mycompany\languageclassifier\LanguageClassifier.class
+com\mycompany\languageclassifier\Booster.class
+com\mycompany\languageclassifier\Training\Train.class
